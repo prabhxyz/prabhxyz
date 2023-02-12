@@ -3,13 +3,15 @@
 
 
 ## 🚀 About Me
-I'm a programming and math enthusiast. I find _everything_ related to STEM very interesting. I make all sorts of projects, ranging from windows applications to machine learning code. 
+* I'm a programming and math enthusiast. 
+* I find _everything_ related to STEM very interesting. 
+* I make all sorts of projects, ranging from windows applications to machine learning code. 
 
 
 ## 📖 I'm currently...
 👩‍💻 I'm currently working on... Machine Learning & RasberryPi Projects.
 
-🧠 I'm currently learning... Calculus, Linear Algebra, and Deep Learning
+🧠 I'm currently learning... Calculus, Linear Algebra, and Deep Learning.
 ## 📈 My Statistics 
 <p align="center">
     <a href="https://github.com/prabhxyz?tab=followers">
