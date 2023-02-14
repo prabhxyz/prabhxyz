@@ -9,9 +9,8 @@
 
 
 ## 📖 I'm currently...
-👩‍💻 I'm currently working on... Machine Learning & RasberryPi Projects.
-
-🧠 I'm currently learning... Calculus, Linear Algebra, and Deep Learning.
+* 👩‍💻 I'm currently working on... Machine Learning & RasberryPi Projects.
+* 🧠 I'm currently learning... Calculus, Linear Algebra, and Deep Learning.
 ## 📈 My Statistics 
 <p align="center">
     <a href="https://github.com/prabhxyz?tab=followers">
@@ -22,7 +21,6 @@
     </a>
 </p>
 
-<br>
 <br>
 
 
