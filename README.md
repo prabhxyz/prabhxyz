@@ -8,7 +8,7 @@
 * I make all sorts of projects, ranging from windows applications to machine learning code. 
 
 
-## 📖 I'm currently...
+## 📖 I'm Currently...
 * 👩‍💻 I'm currently working on... Machine Learning & RasberryPi Projects.
 * 🧠 I'm currently learning... Calculus, Linear Algebra, and Deep Learning.
 ## 📈 My Statistics 
