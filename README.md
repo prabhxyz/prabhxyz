@@ -9,7 +9,7 @@
 
 
 ## 📖 I'm Currently...
-* 👩‍💻 I'm currently working on... Machine Learning & RasberryPi Projects.
+* 👩‍💻 I'm currently working on... Machine Learning & RasberryPi projects.
 * 🧠 I'm currently learning... Calculus, Linear Algebra, and Deep Learning.
 ## 📈 My Statistics 
 <p align="center">
@@ -26,5 +26,4 @@
 
 <p align="center">
     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhxyz&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=24436700)](https://git.io/streak-stats">
-    <img width="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=prabhxyz&bg_color=182c44&color=94c8ff&line=409cfc&point=8abdff&area=true&hide_border=true" />
 </p>
